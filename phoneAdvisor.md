@@ -14,7 +14,7 @@ Edge 3: Person - Can Afford - Price
 
 Edge 4: Phone - Is Type - Smartphone
 
-##Predicate Logic Sentences:
+## Predicate Logic Sentences:
 
 1. Person(x) ∧ Uses(x,y) ⇒ Phone(y) 
 2. Person(x) ∧ Prefers(x,b) ⇒ Brand(b) 
